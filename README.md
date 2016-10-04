@@ -5,7 +5,7 @@ Victor Dusselier
 
 **Git** *Git*
 
-[![foto](file:///Users/VictorDusselier/Documents/Afbeeldingen/bobtjebg.jpg)](https://bobmarley.com)
+[![foto](https://pbs.twimg.com/profile_images/699009733391323136/NudBvhgu.jpg)](https://www.bobmarley.com)
 
 * [google] - link naar google
 
