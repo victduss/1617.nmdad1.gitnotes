@@ -1,6 +1,6 @@
 #Personalia
-Naam: Victor Dusselier
-Woonplaats: Kraenepoelpad 30, 9880 Aalter
+Naam: Victor Dusselier <br>
+Woonplaats: Kraenepoelpad 30, 9880 Aalter <br>
 Geboortedatum: 22/01/1997
 Geslacht: Man
 Nationaliteit: Belg
