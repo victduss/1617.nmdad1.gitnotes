@@ -14,8 +14,8 @@ Middelbaar Onderwijs: Wetenschappen - Wiskunde 6u (Voltooid)<br>
 Hoger Onderwijs: Grafische en Digitale Media<br>
 
 #Werkervaringen<br>
-Buurtslagers Aalter
-Lannoo Tielt
+Buurtslagers Aalter<br>
+Lannoo Tielt<br>
 Chapiteau Aalter<br>
 
 #Computerkennis
