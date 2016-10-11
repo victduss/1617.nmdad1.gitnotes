@@ -7,7 +7,7 @@ Nationaliteit: Belg
 Burgerlijke staat: Celibaat
 Telefoonnummer: +32497492895
 E-mailadres: victduss@student.arteveldehs.be
-[![foto]](https://i1.sndcdn.com/avatars-000216649339-mz9c7t-t500x500.jpg)
+[![foto](https://i1.sndcdn.com/avatars-000216649339-mz9c7t-t500x500.jpg)]
 
 #Opleiding(en)
 Middelbaar Onderwijs: Wetenschappen - Wiskunde 6u (Voltooid)
